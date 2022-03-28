@@ -1,0 +1,7 @@
+#Mon Mar 28 16:23:56 CST 2022
+base.0=E\:\\ALATKP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\ALATKP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out

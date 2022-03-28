@@ -1,0 +1,4 @@
+#Thu Dec 17 23:12:27 SGT 2020
+base.0=E\:\\ALATKP\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+path.0=classes.dex
+renamed.0=classes.dex
